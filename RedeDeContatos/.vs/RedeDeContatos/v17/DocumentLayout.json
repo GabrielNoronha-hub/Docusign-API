@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|c:\\users\\gnoronha\\downloads\\rededecontatos\\rededecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|solutionrelative:rededecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|c:\\users\\gnoronha\\downloads\\rededecontatos\\rededecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|solutionrelative:rededecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|c:\\users\\gnoronha\\downloads\\rededecontatos\\rededecontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|solutionrelative:rededecontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RedeDeContatos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RedeDeContatos\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-10T18:51:11.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RedeDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RedeDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T18:51:11.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RedeDeContatos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RedeDeContatos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T18:51:11.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

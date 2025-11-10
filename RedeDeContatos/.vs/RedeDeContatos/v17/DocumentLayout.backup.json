@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|c:\\users\\gnoronha\\downloads\\rededecontatos\\rededecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|solutionrelative:rededecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_RedeDeContatos_adc25595_21d1_4a74_b033_9c2e9d5a9758/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|c:\\users\\gnoronha\\downloads\\rededecontatos\\rededecontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|solutionrelative:rededecontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|c:\\users\\gnoronha\\downloads\\rededecontatos\\rededecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{775B2AC3-6428-4CE6-8F2A-987A875C14E7}|RedeDeContatos\\RedeDeContatos.csproj|solutionrelative:rededecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RedeDeContatos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RedeDeContatos\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-10T18:51:11.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RedeDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RedeDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T18:51:11.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RedeDeContatos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gnoronha\\Downloads\\RedeDeContatos\\RedeDeContatos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RedeDeContatos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T18:51:11.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_RedeDeContatos_adc25595_21d1_4a74_b033_9c2e9d5a9758/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_RedeDeContatos_adc25595_21d1_4a74_b033_9c2e9d5a9758/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2023-10-27T14:34:30.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
